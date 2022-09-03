@@ -1,29 +1,29 @@
 html:not(.style-scope)
 {
-    --cust-ytmusic-play-nav-color: #181825; /* mantle */
-    --cust-ytmusic-dark-background: #1e1e2e; /* base */
-    --cust-ytmusic-dark-foreground: #1e1e2e; /* base */
+    --cust-ytmusic-play-nav-color: #1e2030; /* mantle */
+    --cust-ytmusic-dark-background: #24273a; /* base */
+    --cust-ytmusic-dark-foreground: #24273a; /* base */
 
-    --cust-ytmusic-light-text-1: #cdd6f4; /* text */
-    --cust-ytmusic-light-2: #cdd6f4; /* text */
-    --cust-ytmusic-light-3: #cdd6f4; /* text */
-    --cust-ytmusic-light-4: #cdd6f4; /* text */
-    --cust-ytmusic-light-5: #89b4fa; /* blue */
+    --cust-ytmusic-light-text-1: #cad3f5; /* text */
+    --cust-ytmusic-light-2: #cad3f5; /* text */
+    --cust-ytmusic-light-3: #cad3f5; /* text */
+    --cust-ytmusic-light-4: #cad3f5; /* text */
+    --cust-ytmusic-light-5: #8aadf4; /* blue */
 
-    --cust-ytmusic-medium-1: #89b4fa; /* blue */
-    --cust-ytmusic-medium-2: #cdd6f4; /* text */
-    --cust-ytmusic-medium-3: #cdd6f4; /* text */
-    --cust-ytmusic-medium-4: #cdd6f4; /* text */
-    --cust-ytmusic-medium-5: #1e1e2e; /* base */
+    --cust-ytmusic-medium-1: #8aadf4; /* blue */
+    --cust-ytmusic-medium-2: #cad3f5; /* text */
+    --cust-ytmusic-medium-3: #cad3f5; /* text */
+    --cust-ytmusic-medium-4: #cad3f5; /* text */
+    --cust-ytmusic-medium-5: #24273a; /* base */
 
-    --cust-ytmusic-subscribe-color: #f38ba8; /* red */
-    --cust-ytmusic-playbutton-color:#cdd6f4; /* text */
-    --cust-ytmusic-tertiary-nav-button-color: #cdd6f4; /* text */
-    --cust-ytmusic-nowplaying-color: #cdd6f4; /* text */
+    --cust-ytmusic-subscribe-color: #ed8796; /* red */
+    --cust-ytmusic-playbutton-color:#cad3f5; /* text */
+    --cust-ytmusic-tertiary-nav-button-color: #cad3f5; /* text */
+    --cust-ytmusic-nowplaying-color: #cad3f5; /* text */
 
-    --cust-ytmusic-main-text-1: #cdd6f4; /* text */
-    --cust-ytmusic-header-text-1: #cdd6f4; /* text */
-    --cust-ytmusic-header-text-2: #cdd6f4; /* text */
+    --cust-ytmusic-main-text-1: #cad3f5; /* text */
+    --cust-ytmusic-header-text-1: #cad3f5; /* text */
+    --cust-ytmusic-header-text-2: #cad3f5; /* text */
     --cust-ytmusic-scroll-width: 0px;
 
     --unthemed-yet: inherit !important;
