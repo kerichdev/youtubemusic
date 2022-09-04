@@ -348,3 +348,8 @@ paper-icon-button.ytmusic-like-button-renderer
 {
     background-color: var(--cust-ytmusic-dark-foreground) !important
 }
+
+yt-formatted-string.title.style-scope.ytmusic-two-row-item-renderer
+{
+    color: var(--cust-ytmusic-main-text-1) !important
+}
