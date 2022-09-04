@@ -368,3 +368,8 @@ span.time-info.style-scope.ytmusic-player-bar
 {
     color: var(--cust-ytmusic-main-text-1) !important
 }
+
+yt-formatted-string#description.description.style-scope.ytmusic-detail-header-renderer
+{
+    color: var(--cust-ytmusic-main-text-1) !important
+}
