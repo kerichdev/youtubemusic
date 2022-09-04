@@ -373,3 +373,17 @@ yt-formatted-string#description.description.style-scope.ytmusic-detail-header-re
 {
     color: var(--cust-ytmusic-main-text-1) !important
 }
+
+/* Client-specific changes */
+
+div.cet-titlebar.cet-linux.inactive
+{
+    background-color: var(--cust-ytmusic-play-nav-color) !important;
+    color: var(--cust-ytmusic-main-text-1) !important
+}
+
+div.cet-titlebar.cet-linux
+{
+    background-color: var(--cust-ytmusic-play-nav-color) !important;
+    color: var(--cust-ytmusic-main-text-1) !important
+}
