@@ -15,13 +15,13 @@
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
 </p>
 
-## Usage
+<!--## Usage
 
 1. Clone this repository locally
 2. Open the app's settings
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
-
+-->
 <!--## 🙋 FAQ
 
 - Q: **_"How do I install the theme?"_**
