@@ -1,5 +1,7 @@
 html:not(.style-scope)
 {
+    --palette: 
+
     --cust-ytmusic-play-nav-color: #181825; /* mantle */
     --cust-ytmusic-dark-background: #1e1e2e; /* base */
     --cust-ytmusic-dark-foreground: #1e1e2e; /* base */
@@ -375,6 +377,11 @@ yt-formatted-string#description.description.style-scope.ytmusic-detail-header-re
 }
 
 yt-formatter-string#text.style-scope.yt-button-renderer.style.default
+{
+    color: var(--cust-ytmusic-dark-background) !important
+}
+
+yt-formatter-string#text.style-scope.yt-button-renderer.style.text
 {
     color: var(--cust-ytmusic-dark-background) !important
 }

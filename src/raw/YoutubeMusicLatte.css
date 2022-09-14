@@ -379,6 +379,16 @@ yt-formatter-string#text.style-scope.yt-button-renderer.style.default
     color: var(--cust-ytmusic-dark-background) !important
 }
 
+yt-formatter-string#text.style-scope.yt-button-renderer.style.default
+{
+    color: var(--cust-ytmusic-dark-background) !important
+}
+
+yt-formatter-string#text.style-scope.yt-button-renderer.style.text
+{
+    color: var(--cust-ytmusic-dark-background) !important
+}
+
 /* Client-specific changes */
 
 div.cet-titlebar.cet-linux.inactive
