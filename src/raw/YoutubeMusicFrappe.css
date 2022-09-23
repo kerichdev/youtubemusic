@@ -389,11 +389,6 @@ yt-formatter-string#text.style-scope.yt-button-renderer.style.text
     color: var(--cust-ytmusic-dark-background) !important
 }
 
-tp-yt-paper-toast#toast.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
-{
-    border-radius: 25px !important
-}
-
 div#icon.tab-icon.style-scope.paper-icon-button.navigation-icon
 {
     color: var(--cust-ytmusic-main-text-1) !important
