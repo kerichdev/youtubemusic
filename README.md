@@ -29,7 +29,7 @@
 
 ## 💝 Thanks to
 
-- [OceaniqSquirrel](https://github.com/OceanicSquirrel) for the CSS template
+- [OceanicSquirrel](https://github.com/OceanicSquirrel) for the CSS template
 
 &nbsp;
 
