@@ -11,8 +11,6 @@
 
 @-moz-document domain("music.youtube.com") {
 
-
-      
     if (theme == "Latte") {
         @import url("https://cdn.jsdelivr.net/gh/kerichdev/youtubemusic@main/src/raw/YoutubeMusicLatte.css");
     } else if (theme == "Frappe") {
